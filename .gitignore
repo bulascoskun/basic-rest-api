@@ -1,0 +1,22 @@
+# Dependency directories
+node_modules/
+
+# Environment variables file
+.env
+
+# Log files
+logs/
+*.log
+
+# Mac OS X Finder files
+.DS_Store
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# npm debugging logs
+npm-debug.log*
+
+# Yerel yapılandırma dosyaları
+config.js
